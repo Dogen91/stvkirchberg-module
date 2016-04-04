@@ -117,13 +117,22 @@ public class MailServlet extends HttpServlet {
         return user.getProperty(Member.PROP_MAIL);
     }
 
+    private String getFromName() {
+        User user = MgnlContext.getUser();
+        if (user == null) {
+            return StringUtils.EMPTY;
+        }
+        return user.getProperty(Member.PROP_PRENAME) + " " + user.getProperty(Member.PROP_LASTNAME);
+    }
+
     private Map<String, Object> getParameterMap(String mailFrom,
                                                 String receiver,
                                                 String subject,
                                                 List<MailAttachment> attachments,
                                                 String message) {
         Map<String, Object> params = new HashMap<String, Object>();
-        params.put(MailTemplate.MAIL_FROM, mailFrom);
+        params.put("replyTo", mailFrom);
+        params.put(MailTemplate.MAIL_FROM, getFromName() + " <info@stvkirchberg.ch>");
         params.put(MailTemplate.MAIL_TO, receiver);
         params.put(MailTemplate.MAIL_SUBJECT, subject);
         params.put(MailTemplate.MAIL_ATTACHMENTS, attachments);
