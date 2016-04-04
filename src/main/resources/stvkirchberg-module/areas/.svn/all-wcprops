@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/resources/stvkirchberg-module/areas
+END
+teaser.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/stvkirchberg-module/!svn/ver/2/trunk/src/main/resources/stvkirchberg-module/areas/teaser.ftl
+END
+navigation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stvkirchberg-module/!svn/ver/3/trunk/src/main/resources/stvkirchberg-module/areas/navigation.ftl
+END
+secondLevelNavigation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/stvkirchberg-module/!svn/ver/3/trunk/src/main/resources/stvkirchberg-module/areas/secondLevelNavigation.ftl
+END
+homeMain.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stvkirchberg-module/!svn/ver/2/trunk/src/main/resources/stvkirchberg-module/areas/homeMain.ftl
+END
+main.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stvkirchberg-module/!svn/ver/2/trunk/src/main/resources/stvkirchberg-module/areas/main.ftl
+END
+sponsors.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stvkirchberg-module/!svn/ver/2/trunk/src/main/resources/stvkirchberg-module/areas/sponsors.ftl
+END
+squads.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/resources/stvkirchberg-module/areas/squads.ftl
+END
+shopItems.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/resources/stvkirchberg-module/areas/shopItems.ftl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stvkirchberg-module/!svn/ver/92/trunk/src/main/resources/stvkirchberg-module/templates
+END
+news.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/92/trunk/src/main/resources/stvkirchberg-module/templates/news.ftl
+END
+content.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stvkirchberg-module/!svn/ver/92/trunk/src/main/resources/stvkirchberg-module/templates/content.ftl
+END
+home.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/92/trunk/src/main/resources/stvkirchberg-module/templates/home.ftl
+END

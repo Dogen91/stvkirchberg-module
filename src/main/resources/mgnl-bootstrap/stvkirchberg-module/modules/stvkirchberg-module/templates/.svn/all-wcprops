@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates
+END
+config.modules.stvkirchberg-module.templates.components.registration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.registration.xml
+END
+config.modules.stvkirchberg-module.templates.components.sponsor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.sponsor.xml
+END
+config.modules.stvkirchberg-module.templates.components.squadLeaderPresentation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.squadLeaderPresentation.xml
+END
+config.modules.stvkirchberg-module.templates.components.editProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/stvkirchberg-module/!svn/ver/32/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.editProfile.xml
+END
+config.modules.stvkirchberg-module.templates.components.memberSearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.memberSearch.xml
+END
+config.modules.stvkirchberg-module.templates.components.newsTeaser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.newsTeaser.xml
+END
+config.modules.stvkirchberg-module.templates.pages.home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/stvkirchberg-module/!svn/ver/92/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.pages.home.xml
+END
+config.modules.stvkirchberg-module.templates.components.viewProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/stvkirchberg-module/!svn/ver/32/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.viewProfile.xml
+END
+config.modules.stvkirchberg-module.templates.components.shopItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.shopItem.xml
+END
+config.modules.stvkirchberg-module.templates.components.html.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.html.xml
+END
+config.modules.stvkirchberg-module.templates.components.resetPwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/stvkirchberg-module/!svn/ver/44/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.resetPwd.xml
+END
+config.modules.stvkirchberg-module.templates.components.changePwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/stvkirchberg-module/!svn/ver/45/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.changePwd.xml
+END
+config.modules.stvkirchberg-module.templates.components.squadLeaders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.squadLeaders.xml
+END
+config.modules.stvkirchberg-module.templates.components.shop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.shop.xml
+END
+config.modules.stvkirchberg-module.templates.pages.news.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.pages.news.xml
+END
+config.modules.stvkirchberg-module.templates.pages.content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.pages.content.xml
+END
+config.modules.stvkirchberg-module.templates.components.mail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/stvkirchberg-module/!svn/ver/30/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.mail.xml
+END
+config.modules.stvkirchberg-module.templates.components.googleCalendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/stvkirchberg-module/!svn/ver/81/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/stvkirchberg-module/templates/config.modules.stvkirchberg-module.templates.components.googleCalendar.xml
+END

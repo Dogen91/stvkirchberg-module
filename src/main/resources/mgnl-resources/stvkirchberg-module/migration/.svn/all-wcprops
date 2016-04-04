@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/stvkirchberg-module/!svn/ver/77/trunk/src/main/resources/mgnl-resources/stvkirchberg-module/migration
+END
+users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/stvkirchberg-module/!svn/ver/77/trunk/src/main/resources/mgnl-resources/stvkirchberg-module/migration/users.xml
+END
+VerbandslisteMai13.xls
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/stvkirchberg-module/!svn/ver/77/trunk/src/main/resources/mgnl-resources/stvkirchberg-module/migration/VerbandslisteMai13.xls
+END
+JS_Personennummer_alle Mitglieder.xls
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/stvkirchberg-module/!svn/ver/40/trunk/src/main/resources/mgnl-resources/stvkirchberg-module/migration/JS_Personennummer_alle%20Mitglieder.xls
+END
+VerbandslisteDez12.xls
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/stvkirchberg-module/!svn/ver/38/trunk/src/main/resources/mgnl-resources/stvkirchberg-module/migration/VerbandslisteDez12.xls
+END

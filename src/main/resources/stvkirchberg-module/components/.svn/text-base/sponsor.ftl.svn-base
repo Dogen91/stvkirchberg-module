@@ -1,0 +1,6 @@
+<div class="sponsor">
+	<h3>
+		<a href="${content.link}">${content.title!}</a>
+	</h3>
+	<a href="${content.link}"><img src="${model.image.link}" alt="" /></a>
+</div>

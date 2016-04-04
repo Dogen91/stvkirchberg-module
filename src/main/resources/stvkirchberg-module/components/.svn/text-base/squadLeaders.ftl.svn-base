@@ -1,0 +1,9 @@
+[#list model.leaders as leader ]
+	<tr>
+		<th>[#if leader_index == 0]${model.squad!}[/#if]</th>
+		<td>${leader.prename!} ${leader.lastname!}</td>
+		<td>${leader.address!}</td>
+		<td>${leader.city!}</td>
+		<td><a href="mailto:${leader.mail!}">${leader.mail!}</a></td>
+	</tr>
+[/#list]

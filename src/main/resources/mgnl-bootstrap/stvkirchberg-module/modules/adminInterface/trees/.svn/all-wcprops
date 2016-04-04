@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/adminInterface/trees
+END
+config.modules.adminInterface.trees.users-jcr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/adminInterface/trees/config.modules.adminInterface.trees.users-jcr.xml
+END
+config.modules.adminInterface.trees.userroles-jcr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/adminInterface/trees/config.modules.adminInterface.trees.userroles-jcr.xml
+END
+config.modules.adminInterface.trees.usergroups-jcr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/stvkirchberg-module/!svn/ver/18/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/modules/adminInterface/trees/config.modules.adminInterface.trees.usergroups-jcr.xml
+END

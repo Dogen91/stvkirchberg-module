@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/stvkirchberg-module/!svn/ver/58/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/server/activation
+END
+config.server.activation.subscribers.magnoliaAuthor8080.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/stvkirchberg-module/!svn/ver/58/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/server/activation/config.server.activation.subscribers.magnoliaAuthor8080.xml
+END
+config.server.activation.subscribers.magnoliaPublic8081.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/stvkirchberg-module/!svn/ver/58/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/server/activation/config.server.activation.subscribers.magnoliaPublic8081.xml
+END

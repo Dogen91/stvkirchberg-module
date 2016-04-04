@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/resources/stvkirchberg-module/components
+END
+squadLeaders.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/resources/stvkirchberg-module/components/squadLeaders.ftl
+END
+shop.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/resources/stvkirchberg-module/components/shop.ftl
+END
+mail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/stvkirchberg-module/!svn/ver/101/trunk/src/main/resources/stvkirchberg-module/components/mail.ftl
+END
+googleCalendar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/stvkirchberg-module/!svn/ver/81/trunk/src/main/resources/stvkirchberg-module/components/googleCalendar.ftl
+END
+registration.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/stvkirchberg-module/!svn/ver/34/trunk/src/main/resources/stvkirchberg-module/components/registration.ftl
+END
+sponsor.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stvkirchberg-module/!svn/ver/2/trunk/src/main/resources/stvkirchberg-module/components/sponsor.ftl
+END
+squadLeaderPresentation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/resources/stvkirchberg-module/components/squadLeaderPresentation.ftl
+END
+editProfile.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/stvkirchberg-module/!svn/ver/34/trunk/src/main/resources/stvkirchberg-module/components/editProfile.ftl
+END
+memberSearch.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/stvkirchberg-module/!svn/ver/101/trunk/src/main/resources/stvkirchberg-module/components/memberSearch.ftl
+END
+newsTeaser.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/stvkirchberg-module/!svn/ver/92/trunk/src/main/resources/stvkirchberg-module/components/newsTeaser.ftl
+END
+viewProfile.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/stvkirchberg-module/!svn/ver/72/trunk/src/main/resources/stvkirchberg-module/components/viewProfile.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/stvkirchberg-module/!svn/ver/68/trunk/src/main/resources/stvkirchberg-module/components/login.ftl
+END
+shopItem.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/resources/stvkirchberg-module/components/shopItem.ftl
+END
+html.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/resources/stvkirchberg-module/components/html.ftl
+END
+changePwd.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/stvkirchberg-module/!svn/ver/45/trunk/src/main/resources/stvkirchberg-module/components/changePwd.ftl
+END
+resetPwd.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/stvkirchberg-module/!svn/ver/44/trunk/src/main/resources/stvkirchberg-module/components/resetPwd.ftl
+END

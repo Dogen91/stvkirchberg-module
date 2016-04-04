@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/stvkirchberg-module/!svn/ver/88/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/server/filters/securityCallback/clientCallbacks
+END
+config.server.filters.securityCallback.clientCallbacks.mitgliederbereich.xml
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/stvkirchberg-module/!svn/ver/88/trunk/src/main/resources/mgnl-bootstrap/stvkirchberg-module/server/filters/securityCallback/clientCallbacks/config.server.filters.securityCallback.clientCallbacks.mitgliederbereich.xml
+END

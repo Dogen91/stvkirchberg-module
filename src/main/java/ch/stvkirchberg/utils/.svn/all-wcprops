@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stvkirchberg-module/!svn/ver/96/trunk/src/main/java/ch/stvkirchberg/utils
+END
+NodeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stvkirchberg-module/!svn/ver/101/trunk/src/main/java/ch/stvkirchberg/utils/NodeUtils.java
+END
+TmplSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stvkirchberg-module/!svn/ver/73/trunk/src/main/java/ch/stvkirchberg/utils/TmplSearch.java
+END
+NotificationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/46/trunk/src/main/java/ch/stvkirchberg/utils/NotificationUtil.java
+END
+JcrUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stvkirchberg-module/!svn/ver/28/trunk/src/main/java/ch/stvkirchberg/utils/JcrUtil.java
+END
+STVKConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/java/ch/stvkirchberg/utils/STVKConstants.java
+END
+PathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stvkirchberg-module/!svn/ver/2/trunk/src/main/java/ch/stvkirchberg/utils/PathUtil.java
+END
+MemberSearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/96/trunk/src/main/java/ch/stvkirchberg/utils/MemberSearchUtil.java
+END

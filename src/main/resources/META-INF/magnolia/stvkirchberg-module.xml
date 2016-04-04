@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "module.dtd" >
+<module>
+  <name>stvkirchberg-module</name>
+  <displayName>${project.name}</displayName>
+  <description>${project.description}</description>
+  <class>ch.stvkirchberg.stvkirchberg</class>
+  <versionHandler>ch.stvkirchberg.setup.stvkirchbergVersionHandler</versionHandler>
+  <version>${project.version}</version>
+
+  <dependencies>
+    <dependency>
+      <name>core</name>
+      <version>4.5/*</version>
+    </dependency>
+  <!-- Use the extended-templating-kit with the enterprise edition. -->
+  <!--
+    <dependency>
+      <name>extended-templating-kit</name>
+      <version>1.3/*</version>
+    </dependency>
+  -->
+  </dependencies>
+  <servlets>
+    <servlet>
+      <name>MemberListToXsl</name>
+      <class>ch.stvkirchberg.servlets.MemberListToXslServlet</class>
+      <comment>Export a member list to excel</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/exportToXsl</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>Registration</name>
+      <class>ch.stvkirchberg.servlets.RegistrationServlet</class>
+      <comment>Creates a new Public User</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/registration</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>UpdateProfile</name>
+      <class>ch.stvkirchberg.servlets.UpdateProfileServlet</class>
+      <comment>Updates a users profile</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/updateProfile</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>SendMail</name>
+      <class>ch.stvkirchberg.servlets.MailServlet</class>
+      <comment>Prepares and sends the mail of the mail component</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/sendMail</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>ResetPwd</name>
+      <class>ch.stvkirchberg.servlets.ResetPwdServlet</class>
+      <comment>Handles the request for a password</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/resetPwd</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>ChangePwd</name>
+      <class>ch.stvkirchberg.servlets.ChangePwdServlet</class>
+      <comment>Changes the password of a user</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/changePwd</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>MigrateMembersFromXMl</name>
+      <class>ch.stvkirchberg.servlets.MigrateMembersFromXML</class>
+      <comment>Migrates the user from the xml to the jcr.</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/migrateMembersFromXml</mapping>
+      </mappings>
+    </servlet>
+    <servlet>
+      <name>ShopOrder</name>
+      <class>ch.stvkirchberg.servlets.ShopOrderServlet</class>
+      <comment>Sends a shop order via mail</comment>
+      <mappings>
+        <mapping>/.stvkirchberg/shopOrder</mapping>
+      </mappings>
+    </servlet>
+  </servlets>
+</module>

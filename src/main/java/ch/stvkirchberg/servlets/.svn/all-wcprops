@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stvkirchberg-module/!svn/ver/95/trunk/src/main/java/ch/stvkirchberg/servlets
+END
+MigrateMembersFromXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/stvkirchberg-module/!svn/ver/99/trunk/src/main/java/ch/stvkirchberg/servlets/MigrateMembersFromXML.java
+END
+MailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stvkirchberg-module/!svn/ver/90/trunk/src/main/java/ch/stvkirchberg/servlets/MailServlet.java
+END
+ShopOrderServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stvkirchberg-module/!svn/ver/95/trunk/src/main/java/ch/stvkirchberg/servlets/ShopOrderServlet.java
+END
+RegistrationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/stvkirchberg-module/!svn/ver/85/trunk/src/main/java/ch/stvkirchberg/servlets/RegistrationServlet.java
+END
+ChangePwdServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stvkirchberg-module/!svn/ver/45/trunk/src/main/java/ch/stvkirchberg/servlets/ChangePwdServlet.java
+END
+MemberListToXslServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/stvkirchberg-module/!svn/ver/101/trunk/src/main/java/ch/stvkirchberg/servlets/MemberListToXslServlet.java
+END
+ResetPwdServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/stvkirchberg-module/!svn/ver/76/trunk/src/main/java/ch/stvkirchberg/servlets/ResetPwdServlet.java
+END
+UpdateProfileServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/stvkirchberg-module/!svn/ver/83/trunk/src/main/java/ch/stvkirchberg/servlets/UpdateProfileServlet.java
+END

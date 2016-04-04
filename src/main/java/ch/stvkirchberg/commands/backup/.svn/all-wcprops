@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stvkirchberg-module/!svn/ver/70/trunk/src/main/java/ch/stvkirchberg/commands/backup
+END
+BackupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/stvkirchberg-module/!svn/ver/70/trunk/src/main/java/ch/stvkirchberg/commands/backup/BackupCommand.java
+END
+Backup.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/70/trunk/src/main/java/ch/stvkirchberg/commands/backup/Backup.java
+END

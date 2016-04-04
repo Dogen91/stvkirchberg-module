@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/java/ch/stvkirchberg/models/components
+END
+SquadLeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/java/ch/stvkirchberg/models/components/SquadLeaders.java
+END
+ResetPwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/stvkirchberg-module/!svn/ver/44/trunk/src/main/java/ch/stvkirchberg/models/components/ResetPwd.java
+END
+ChangePwd.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/stvkirchberg-module/!svn/ver/45/trunk/src/main/java/ch/stvkirchberg/models/components/ChangePwd.java
+END
+Html.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/97/trunk/src/main/java/ch/stvkirchberg/models/components/Html.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stvkirchberg-module/!svn/ver/72/trunk/src/main/java/ch/stvkirchberg/models/components/Profile.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stvkirchberg-module/!svn/ver/89/trunk/src/main/java/ch/stvkirchberg/models/components/Login.java
+END
+ShopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/java/ch/stvkirchberg/models/components/ShopItem.java
+END
+NewsTeaser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/stvkirchberg-module/!svn/ver/82/trunk/src/main/java/ch/stvkirchberg/models/components/NewsTeaser.java
+END
+MemberSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/stvkirchberg-module/!svn/ver/102/trunk/src/main/java/ch/stvkirchberg/models/components/MemberSearch.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/stvkirchberg-module/!svn/ver/4/trunk/src/main/java/ch/stvkirchberg/models/components/Component.java
+END
+SquadLeaderPresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/stvkirchberg-module/!svn/ver/84/trunk/src/main/java/ch/stvkirchberg/models/components/SquadLeaderPresentation.java
+END
+Sponsor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stvkirchberg-module/!svn/ver/52/trunk/src/main/java/ch/stvkirchberg/models/components/Sponsor.java
+END
+Registration.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/stvkirchberg-module/!svn/ver/37/trunk/src/main/java/ch/stvkirchberg/models/components/Registration.java
+END
+Mail.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/34/trunk/src/main/java/ch/stvkirchberg/models/components/Mail.java
+END
+GoogleCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/stvkirchberg-module/!svn/ver/81/trunk/src/main/java/ch/stvkirchberg/models/components/GoogleCalendar.java
+END
+Shop.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stvkirchberg-module/!svn/ver/93/trunk/src/main/java/ch/stvkirchberg/models/components/Shop.java
+END

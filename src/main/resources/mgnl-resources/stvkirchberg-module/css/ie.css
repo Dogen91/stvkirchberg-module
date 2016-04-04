@@ -1,0 +1,80 @@
+/*** colors ***
+blau: #002f5f
+gelb: #d8b511
+rot:  #c4262e
+*/
+
+.home #contentWrapper {
+	width: 970px;
+}
+
+.home #contentWrapper #content {
+	overflow: hidden;
+	height: 355px;
+}
+
+#contentWrapper #content {
+	width: 659px;
+}
+
+.newsTeaser {
+	width: 580px;
+}
+
+.pagination {
+	margin-left: 0px;
+}
+
+#contentWrapper #teaser {
+	width: 240px;
+}
+
+.media {
+	width: 220px !important;
+}
+
+#gymnast {
+	margin: 0px;
+	background: #FFF url('../img/gymnast.jpg') 0 100% no-repeat;
+	height: 113px;
+	margin-left: -5px;
+}
+
+.form-wrapper div span {
+	display: block;
+	margin-left: 200px;
+}
+
+.form-wrapper div label span {
+	display: inline;
+	margin: 0px;
+}
+
+fieldset fieldset label {
+	text-align: left;
+}
+
+fieldset fieldset input {
+	border: 0px;
+}
+
+.button-wrapper {
+	padding-left: 193px;
+	padding-top: 10px;
+}
+
+.button-wrapper input {
+	border: 0px;
+}
+
+#container DIV.area {
+	height: 24px !important;
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+#sponsors .sponsor {
+	width: 206px;
+	height: 68px;
+}
+
