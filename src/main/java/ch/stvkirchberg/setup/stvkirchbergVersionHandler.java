@@ -7,6 +7,7 @@ import info.magnolia.module.delta.ModuleBootstrapTask;
 import info.magnolia.module.delta.Task;
 import info.magnolia.module.model.Version;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -29,5 +30,15 @@ public class stvkirchbergVersionHandler extends SimpleContentVersionHandler {
         defaultUpdateTasks.add(new ModuleBootstrapTask());
 
         return defaultUpdateTasks;
+    }
+
+    @Override
+    protected List<Task> getStartupTasks(InstallContext installContext) {
+        if ("SNAPSHOT".equalsIgnoreCase(installContext.getCurrentModuleDefinition().getVersion().getClassifier())) {
+
+            log.warn("Starting SNAPSHOT release; forcing reload of module files.");
+            return super.getBasicInstallTasks(installContext);
+        }
+        return new ArrayList<Task>();
     }
 }
