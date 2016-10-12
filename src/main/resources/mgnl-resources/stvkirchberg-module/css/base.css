@@ -3,6 +3,43 @@ blau: #002f5f
 gelb: #d8b511
 rot:  #c4262e
 */
+html {
+	background: transparent none no-repeat fixed center center / cover;
+}
+
+body {
+	background: transparent;
+}
+
+.container {
+	background-color: #ffffff;
+    box-shadow: 0 0 10px 3px #002f5f;
+}
+
+nav.navbar {
+	border-radius: 0px 0px 4px 4px;
+	border-top-width: 0px;
+	padding-top: 10px;
+}
+
+.navbar-header .title a {
+	font-family: candara,sans-serif;
+	font-size: 40px;
+	color: #333;
+	text-decoration: none;
+	line-height: 40px;
+}
+
+.newsTeaser {
+	clear: both;
+}
+
+.newsTeaser img {
+	max-width: 220px;
+	float: left;
+	padding: 0 5px 5px 0;
+}
+
 
 /*** 
 
