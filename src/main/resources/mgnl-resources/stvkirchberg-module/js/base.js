@@ -8,7 +8,7 @@ $(document).ready(function(){
 	/***
 	 FancyBox
 	***/
-	$('.media .zoom a').fancybox();
+	//$('.media .zoom a').fancybox();
 	
 	/***
 	 DataTable

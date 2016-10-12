@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ch.stvkirchberg</groupId>
 	<artifactId>stvkirchberg-module</artifactId>
-	<version>1.0.390-SNAPSHOT</version>
+	<version>1.0.391-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>stvkirchberg-module Magnolia Module</name>
 	<!-- <description>Please uncomment and fill in ...</description> -->

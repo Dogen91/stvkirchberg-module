@@ -5,7 +5,7 @@
 		[#if currentPage.@path?starts_with(childPage.@path)]
 			[#if childPage.@depth > startDepth]
 		        [#if !(childPage.hideInNav?has_content && childPage.hideInNav)]
-					<li class="selected">
+					<li class="active">
 		            	<a href="${cmsfn.link(childPage)}"><span>${childPage.title!childPage.@name}</span></a>
 			            [#if childPage.@depth <  maxDepth]
 				        	<ul>

@@ -2,6 +2,6 @@
 
 [#assign rootPage = cmsfn.root(content, "mgnl:page")!cmsfn.page(content)]
 
-<ul>
+<ul class="nav navbar-nav">
 	[@renderNavigation rootPage 1 2 /]
 </ul>
