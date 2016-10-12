@@ -37,8 +37,12 @@
 					[@cms.area name="homeMain" /]
 				</div>
 				<div class="col-sm-4">
-					[@cms.area name="teaser" /]
-					[@cms.area name="sponsors" /]
+					<div class="teaser">
+						[@cms.area name="teaser" /]
+					</div>
+					<div class="sponsors">
+						[@cms.area name="sponsors" /]
+					</div>
 				</div>
 			</div>
 		</div>
