@@ -5,10 +5,6 @@
 
 package ch.stvkirchberg.servlets;
 
-import info.magnolia.cms.security.Group;
-import info.magnolia.cms.security.SecuritySupport;
-import info.magnolia.repository.RepositoryConstants;
-
 import java.io.IOException;
 import java.util.Collections;
 import java.util.HashMap;
@@ -40,6 +36,9 @@ import ch.stvkirchberg.models.common.MemberSearchFilter;
 import ch.stvkirchberg.utils.JcrUtil;
 import ch.stvkirchberg.utils.MemberSearchUtil;
 import ch.stvkirchberg.utils.NodeUtils;
+import info.magnolia.cms.security.Group;
+import info.magnolia.cms.security.SecuritySupport;
+import info.magnolia.repository.RepositoryConstants;
 
 public class MemberListToXslServlet extends HttpServlet {
 
@@ -47,7 +46,8 @@ public class MemberListToXslServlet extends HttpServlet {
 
     @Override
     protected void service(HttpServletRequest req,
-                           HttpServletResponse resp) throws ServletException, IOException {
+                           HttpServletResponse resp)
+        throws ServletException, IOException {
         MemberSearchFilter memberSearchFilter = new MemberSearchFilter(req);
         List<Member> members = MemberSearchUtil.searchMembers(memberSearchFilter);
 
@@ -81,8 +81,8 @@ public class MemberListToXslServlet extends HttpServlet {
             createDataCell(member.getLastname(), col++, row);
             createDataCell(member.getPrename(), col++, row);
             createDataCell(member.getAddress(), col++, row);
-            createDataCell(member.getCity(), col++, row);
             createDataCell(member.getPostalCode(), col++, row);
+            createDataCell(member.getCity(), col++, row);
             createDataCell(member.getMail(), col++, row);
             createDataCell(member.getPhoneNumber(), col++, row);
             createDataCell(member.getMobilePhoneNumber(), col++, row);
