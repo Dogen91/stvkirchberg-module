@@ -50,6 +50,7 @@ public class MemberListToXslServlet extends HttpServlet {
         throws ServletException, IOException {
         MemberSearchFilter memberSearchFilter = new MemberSearchFilter(req);
         List<Member> members = MemberSearchUtil.searchMembers(memberSearchFilter);
+        Collections.sort(members);
 
         Map<String, String> roleMap = getRoleMap();
         Map<String, String> squadMap = getSquadMap();

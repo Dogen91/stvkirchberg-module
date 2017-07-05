@@ -5,8 +5,6 @@
 
 package ch.stvkirchberg.models.common;
 
-import info.magnolia.cms.security.User;
-
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -24,8 +22,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ch.stvkirchberg.utils.NodeUtils;
+import info.magnolia.cms.security.User;
 
-public class Member {
+public class Member implements Comparable<Member> {
 
     private static Logger LOG = LoggerFactory.getLogger(Member.class);
 
@@ -400,6 +399,23 @@ public class Member {
 
     public void setStvNumber(String stvNumber) {
         this.stvNumber = stvNumber;
+    }
+
+    public int compareTo(Member other) {
+        if (other == null) {
+            return -1;
+        }
+        if (this.lastname == null) {
+            return 1;
+        }
+        int lastnameCompareResult = this.lastname.compareToIgnoreCase(other.lastname);
+        if (lastnameCompareResult == 0) {
+            if (this.prename == null) {
+                return 1;
+            }
+            return this.prename.compareTo(other.prename);
+        }
+        return lastnameCompareResult;
     }
 
 }
