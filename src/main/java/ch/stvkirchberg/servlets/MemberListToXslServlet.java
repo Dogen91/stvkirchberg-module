@@ -96,6 +96,8 @@ public class MemberListToXslServlet extends HttpServlet {
             createDataCell(getStringOfBoolean(member.isBenefactor()), col++, row);
             createDataCell(getStringOfBoolean(member.isPassivMember()), col++, row);
             createDataCell(getStringOfBoolean(member.isClubMember()), col++, row);
+            createDataCell(getStringOfBoolean(member.isImgForbidden()), col++, row);
+            createDataCell(member.getRemark(), col++, row);
 
             for (String roleId : roleMap.values()) {
                 if (member.getRoles().contains(roleId)) {
@@ -153,6 +155,8 @@ public class MemberListToXslServlet extends HttpServlet {
         createHeaderCell("Gönner", col++, headerRow, headerCellStyle);
         createHeaderCell("Passivmitglied", col++, headerRow, headerCellStyle);
         createHeaderCell("Vereinsmitglied", col++, headerRow, headerCellStyle);
+        createHeaderCell("Bilderverbot", col++, headerRow, headerCellStyle);
+        createHeaderCell("Bemerkung", col++, headerRow, headerCellStyle);
 
         for (String role : roleMap.keySet()) {
             createHeaderCell(role, col++, headerRow, headerCellStyle);

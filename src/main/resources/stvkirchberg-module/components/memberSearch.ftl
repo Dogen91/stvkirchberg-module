@@ -69,6 +69,8 @@
 	    				<th scope="col">G&ouml;nner</th>
 	    				<th scope="col">Passivmitglied</th>
 	    				<th scope="col">Vereinsmitglied</th>
+	    				<th scope="col">Bilderverbot</th>
+	    				<th scope="col">Bemerkung</th>
 	    				<th scope="col">STV Nummer</th>
 	    				[#list model.roleMap?keys as key]
 							<th>${key}</th>
@@ -128,6 +130,14 @@
 		    	    				Nein
 		    	    			[/#if]
 		    	    		</td>
+		    	    		<td>
+		    	    			[#if member.imgForbidden]
+		    	    				Ja
+		    	    			[#else]
+		    	    				Nein
+		    	    			[/#if]
+		    	    		</td>
+		    	    		<td>${member.remark}</td>
 		    	    		<td>${member.stvNumber}</td>
 		    	    		[#list model.roleMap?keys as key]
 								<td>

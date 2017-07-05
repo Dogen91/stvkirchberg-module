@@ -66,6 +66,10 @@ public class Member implements Comparable<Member> {
 
     public static final String PROP_STV_NUMBER = "stvNumber";
 
+    public static final String PROP_IMG_FORBIDDEN = "imgForbidden";
+
+    public static final String PROP_REMARK = "remark";
+
     private String uuid;
 
     private String username;
@@ -110,6 +114,10 @@ public class Member implements Comparable<Member> {
 
     private String stvNumber;
 
+    private boolean imgForbidden;
+
+    private String remark;
+
     public Member() {
 
     }
@@ -141,6 +149,8 @@ public class Member implements Comparable<Member> {
         this.setRoles(initRoleList(userNode));
         this.setSquads(initSquadList(userNode));
         this.stvNumber = NodeUtils.getStringProperty(userNode, PROP_STV_NUMBER);
+        this.imgForbidden = getBooleanValueOfString(NodeUtils.getStringProperty(userNode, PROP_IMG_FORBIDDEN));
+        this.remark = NodeUtils.getStringProperty(userNode, PROP_REMARK);
     }
 
     public Member(User user) {
@@ -166,6 +176,8 @@ public class Member implements Comparable<Member> {
         // this.setRoles(initRoleList(this.username));
         // this.setSquads(initSquadList(user));
         this.stvNumber = user.getProperty(PROP_STV_NUMBER);
+        this.imgForbidden = getBooleanValueOfString(user.getProperty(PROP_IMG_FORBIDDEN));
+        this.remark = user.getProperty(PROP_REMARK);
     }
 
     private List<String> initSquadList(Node userNode) {
@@ -399,6 +411,22 @@ public class Member implements Comparable<Member> {
 
     public void setStvNumber(String stvNumber) {
         this.stvNumber = stvNumber;
+    }
+
+    public boolean isImgForbidden() {
+        return imgForbidden;
+    }
+
+    public void setImgForbidden(boolean imgForbidden) {
+        this.imgForbidden = imgForbidden;
+    }
+
+    public String getRemark() {
+        return remark;
+    }
+
+    public void setRemark(String remark) {
+        this.remark = remark;
     }
 
     public int compareTo(Member other) {
