@@ -22,6 +22,10 @@ nav.navbar {
 	padding-top: 10px;
 }
 
+nav.navbar .container-fluid {
+	background: transparent url('../img/gymnast.jpg') 100% 0 no-repeat;
+}
+
 .navbar-header .title a {
 	font-family: candara,sans-serif;
 	font-size: 40px;
@@ -32,12 +36,14 @@ nav.navbar {
 
 .newsTeaser {
 	clear: both;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dddddd;
 }
 
 .newsTeaser img {
 	max-width: 220px;
 	float: left;
-	padding: 0 5px 5px 0;
+	padding: 0 10px 10px 0;
 }
 
 .teaser h2, .sponsors h3 {
